@@ -1,0 +1,27 @@
+{
+    "name": "friendsofsilverstripe/flex-images-gallery",
+    "description": "Gallery page based on flex images",
+    "type": "silverstripe-module",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "silverstripe",
+        "gallery",
+        "gallery page",
+        "photos",
+        "images"
+    ],
+    "authors": [
+        {
+            "name": "Peter Thaleikis",
+            "homepage": "https://github.com/spekulatius"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "^3.0",
+        "jonshutt/silverstripe-sortable-gallery-field": "*",
+        "friendsofsilverstripe/backendmessages": "*"
+    },
+    "extra": {
+        "installer-name": "flex-images-gallery"
+    }
+}

@@ -1,0 +1,6 @@
+---
+Name: gallery-page
+---
+Image:
+  extensions:
+    - GalleryPageImageExtension

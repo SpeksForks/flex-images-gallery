@@ -23,5 +23,9 @@
     },
     "extra": {
         "installer-name": "flex-images-gallery"
-    }
+    },
+    "support": {
+        "issues": "https://github.com/FriendsOfSilverStripe/flex-images-gallery/issues"
+    },
+    "homepage": "https://github.com/FriendsOfSilverStripe/flex-images-gallery"
 }

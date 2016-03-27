@@ -18,8 +18,8 @@
     ],
     "require": {
         "silverstripe/framework": "^3.0",
-        "jonshutt/silverstripe-sortable-gallery-field": "*",
-        "friendsofsilverstripe/backendmessages": "*"
+        "friendsofsilverstripe/backendmessages": "^0.2.0",
+        "jonshutt/silverstripe-sortable-gallery-field": "dev-master"
     },
     "extra": {
         "installer-name": "flex-images-gallery"

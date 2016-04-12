@@ -17,7 +17,7 @@ class GalleryPageImageExtension extends DataExtension
     );
 
     /**
-     * @return FieldList
+     * @param FieldList
      */
     public function updateCMSFields(FieldList $fields)
     {

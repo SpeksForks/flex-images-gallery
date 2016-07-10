@@ -68,7 +68,8 @@ class GalleryPage_Controller extends Page_Controller
     /**
      * add the requirements
      */
-    public function init() {
+    public function init()
+    {
         parent::init();
 
         // add the used libs in.
